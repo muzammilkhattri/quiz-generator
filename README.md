@@ -1,4 +1,4 @@
-# Exam Prepration
+# Exam Preparation
 
 A simple app designed to help students prepare for exams. It lets you upload PPTX or DOCX files and generates practice questions, flashcards, and multiple-choice questions.
 
